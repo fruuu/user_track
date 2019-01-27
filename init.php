@@ -5,7 +5,7 @@ header('Content-Type: text/html; charset=utf-8');
 define("DB_USER", ""); 
 define("DB_PASS", ""); 
 define("DB_HOST", ""); 
-define("DB_NAME", ""); 
+define("DB_NAME", "track"); 
 
 $path = __DIR__."/";
 
