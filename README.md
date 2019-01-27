@@ -4,4 +4,5 @@
 2. create database by import track.sql file
 
 index.php - tracks user data
+
 admin_area.php - shows data about user activity
